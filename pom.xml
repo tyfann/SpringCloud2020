@@ -40,6 +40,8 @@
       <module>cloud-api-commons</module>
       <module>cloud-provider-payment8004</module>
       <module>cloud-consumerzk-order80</module>
+      <module>cloud-consumer-feign-order80</module>
+      <module>cloud-eureka-server7001</module>
   </modules>
 
   <!-- 统一管理jar包b版本 -->
